@@ -71,6 +71,3 @@ Questions, suggestions, or contributions?
 ---
 
 *Think like a physicist. Prototype like a hacker. Document like a scientist.*  
-
-
-Would you like me to also **add contribution guidelines** (so colleagues know how to propose topics, edits, or new issues), or keep this purely as a read-only newsletter repo?
