@@ -1,6 +1,3 @@
-Here’s a well-structured **`README.md`** draft for your GitHub repo, designed to be clear, engaging, and professional:
-
-```markdown
 # 🌞 NASA Goddard Heliophysics Science Division  
 ## Weekly AI Newsletter  
 
@@ -75,7 +72,5 @@ Questions, suggestions, or contributions?
 
 *Think like a physicist. Prototype like a hacker. Document like a scientist.*  
 
----
-```
 
 Would you like me to also **add contribution guidelines** (so colleagues know how to propose topics, edits, or new issues), or keep this purely as a read-only newsletter repo?
