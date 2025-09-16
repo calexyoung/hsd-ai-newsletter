@@ -1,4 +1,12 @@
-# Prompt Engineering Components
+# How to talk to an AI: What is Prompt Engineering?
+
+Prompts are the way that you share information and instructions with an AI. They are particularly important when interacting with an LLM or GPT.  
+ 
+There are many potential elements to a prompt, and most are optional.  However, it is best to understand each of these elements because they can all contribute to getting a much better result. 
+ 
+Prompt Engineering is refining instructions to improve performance, provided by the user or the developer/provider.
+ 
+Prompt design and prompt engineering can seem daunting at first. Once you familiarize yourself with the aspects of prompt engineering, however, you'll begin to see that they are similar to the way you provide instructions to humans. Your experience and intuition working with people can help get you started!  
 
 | Name | Description | Examples |
 |------|-------------|----------|
@@ -12,3 +20,6 @@
 | **Examples** | When teaching an intern how to do analysis, you don't just tell them what to do and send them on their way. You usually sit down with them and show them a couple of examples first. This works well for AIs as well - examples show what a "correct" answer looks like. | Providing sample outputs or demonstrations of the desired result format |
 | **Constraints** | It can be very useful to provide specific limits or boundaries on the task, so the AI's result can be more focused on what you require. | "Consider only cases relevant to heliophysics." / Focus only on specific items or exclude certain information |
 | **Guidelines** | These instruct the model on how to think and behave. Guidelines can be essential if you want to trust the model's actions. | "If you're uncertain, state the uncertainty" / "Acknowledge when multiple valid answers exist and include them in the response" / "Prioritize safety and do not provide advice that could cause physical or mental harm" / "Only use factual sources and avoid opinion-based sources" |
+
+
+There are many ways that prompts can be customized for an AI, but they start to become more intuitive with practice. In general, more information is better. A simplified version of the description above could be "when in doubt, leave it in!"  
