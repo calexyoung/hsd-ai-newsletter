@@ -7,24 +7,22 @@ This newsletter explores the intersection of **Artificial Intelligence (AI)**, *
 
 ---
 
-## 🚀 Latest Issue  
+## 🚀 Latest Issue  - 🔆 2025.09.17
 
 ### *Exploring AI, ML, and Generative Technologies in Heliophysics*  
 
 - **Introduction to AI, ML, and LLMs**  
-- **Highlights from August 28, 2025**  
-  - Featured talk: *Introduction to Surya: A Foundation Model in Heliophysics*  
-  - Presenters: Andrés Muñoz-Jaramillo (SwRI), Madhulika Guhathakurta (NASA HQ), Daniel da Silva (UMBC/671), and the Surya team  
-  - [📄 Surya Model Paper](https://arxiv.org/abs/2508.14112)  
-  - [💻 Surya on HuggingFace](https://huggingface.co/nasa-ibm-ai4science)  
-  - [📂 Surya GitHub](https://github.com/NASA-IMPACT/Surya)  
+- **Highlights from September 17, 2025**  
+🗣️ How to Talk to an AI
+
+Want better results from ChatGSFC, Claude, or GPT-4? It's not magic—it's prompting. How you phrase your request dramatically impacts what you get back. Great prompts include not just the task, but who the model should act like, what the output should look like, and who it’s for. Add examples, tone, and even constraints like “focus on heliophysics only.” The more context you give, the more useful and tailored the response becomes. Treat it like briefing a teammate, not Googling a fact.
 
 **Key Takeaway:**  
-Surya is a NASA-funded spatiotemporal transformer trained on nearly a decade of SDO imagery. It demonstrates strong performance in solar forecasting, segmentation, and space weather defense, setting a template for future scientific foundation models.  
+👉 Think: Role + Task + Data + Format + Tone = Success
 
 ---
 
-## 📚 Features in Each Newsletter  
+## 📚 Features in the Newsletter  
 
 - **Introduction to AI/ML Concepts** – Accessible explanations of core AI ideas  
 - **Weekly Highlights** – Talks, demos, and breakthroughs in AI for heliophysics  
@@ -49,14 +47,6 @@ Surya is a NASA-funded spatiotemporal transformer trained on nearly a decade of 
 - [Anthropic Console](https://claude.ai)  
 - [Google Gemini](https://ai.google.dev/)  
 - [HuggingFace Spaces](https://huggingface.co/spaces)  
-
----
-
-## ⚠️ Notes & Best Practices  
-
-- **Always verify outputs** – LLMs can generate plausible but incorrect answers.  
-- **Protect sensitive data** – Avoid uploading proprietary or restricted datasets to public tools.  
-- **Expect variability** – Model outputs can differ across runs; log prompts and versions.  
 
 ---
 
