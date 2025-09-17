@@ -83,7 +83,7 @@ There are many ways that prompts can be customized for an AI, but they start to 
 
 ---
 
-### 💡 Tips & Tricks (New Set)
+### 💡 Tips & Tricks
 
 - 🧩 **Break big tasks into smaller ones:** Instead of “write a report,” ask the model to generate an outline first, then sections.
 - 🎯 **Use role-based prompts:** “You are a solar physicist explaining this to an intern” leads to better domain-appropriate tone.
@@ -94,7 +94,7 @@ There are many ways that prompts can be customized for an AI, but they start to 
     
 ---
 
-### ⚠️ Points of Caution (New Set)
+### ⚠️ Points of Caution
 
 - 🕵️ **False citations:** Some models make up fake DOIs, authors, or sources—double-check any reference!
 - 🛠️ **Overconfidence in technical outputs:** LLMs may generate syntactically correct but scientifically wrong code or math.
