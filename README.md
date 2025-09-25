@@ -7,19 +7,33 @@ This newsletter explores the intersection of **Artificial Intelligence (AI)**, *
 
 ---
 
-## 🚀 Latest Issue  - 🔆 2025.09.17
+## 🚀 Latest Issue  - 🔆 2025.09.25
 
 ### *Exploring AI, ML, and Generative Technologies in Heliophysics*  
 
 - **Introduction to AI, ML, and LLMs**  
-- **Highlights from September 17, 2025**  
-🗣️ How to Talk to an AI
+- **Highlights from September 25, 2025**  
 
-Want better results from ChatGSFC, Claude, or GPT-4? It's not magic—it's prompting. How you phrase your request dramatically impacts what you get back. Great prompts include not just the task, but who the model should act like, what the output should look like, and who it’s for. Add examples, tone, and even constraints like “focus on heliophysics only.” The more context you give, the more useful and tailored the response becomes. Treat it like briefing a teammate, not Googling a fact.
+This week’s edition brings practical tools and timely updates:
 
-**Key Takeaway:**  
-👉 Think: Role + Task + Data + Format + Tone = Success
+🗓️ Events to Watch:
+NASA’s AI Center of Excellence webinar returns October 8 (Teams link included)
+NVIDIA GTC DC coming October 27–29—free for .gov attendees
+📚 New Weekly Terms:
+Includes Prompt Chaining, Grounding, Latent Space, and Instruction Following
+📜 NASA AI Policy Now Live:
+A new directive outlines responsible use of AI-generated media—labeling, watermarking, and using only approved tools are now required
+💬 Tips & Tricks (Set 3):
+Try domain-specific roles, reuse your best prompts, and combine LLMs with coding tools
+⚠️ Caution Corner:
+Watch for formatting bugs, hallucinated facts, role confusion, and short memory in models
+🧪 New Research Highlights (arXiv):
+Federation of Agents – a fabric for distributed multi-agent AI collaboration
+Embodied AI – the bridge from LLMs to physical systems
+Agentic Metacognition – failure-aware agents that know when to hand off to a human
 
+Key Takeaway:
+AI is a team member, not a magic box. Whether you're using GPT-4 or Claude, the results improve dramatically when you treat your prompt like a brief to a collaborator—clear, scoped, and structured.
 ---
 
 ## 📚 Features in the Newsletter  
