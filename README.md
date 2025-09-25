@@ -19,14 +19,19 @@ This week’s edition brings practical tools and timely updates:
 🗓️ Events to Watch:
 NASA’s AI Center of Excellence webinar returns October 8 (Teams link included)
 NVIDIA GTC DC coming October 27–29—free for .gov attendees
+
 📚 New Weekly Terms:
 Includes Prompt Chaining, Grounding, Latent Space, and Instruction Following
+
 📜 NASA AI Policy Now Live:
 A new directive outlines responsible use of AI-generated media—labeling, watermarking, and using only approved tools are now required
-💬 Tips & Tricks (Set 3):
+
+💬 Tips & Tricks:
 Try domain-specific roles, reuse your best prompts, and combine LLMs with coding tools
+
 ⚠️ Caution Corner:
 Watch for formatting bugs, hallucinated facts, role confusion, and short memory in models
+
 🧪 New Research Highlights (arXiv):
 Federation of Agents – a fabric for distributed multi-agent AI collaboration
 Embodied AI – the bridge from LLMs to physical systems
